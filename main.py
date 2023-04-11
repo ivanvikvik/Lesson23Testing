@@ -2,14 +2,7 @@ from student import Student
 
 
 def main():
-    st1 = Student("Alex", 20, 10)
-    st2 = Student("Kate", 18, 7)
-    st3 = Student("Peter", 21, 9)
-    st4 = Student("Anna")
-    st5 = Student("Anna", 18)
-    st6 = Student()
 
-    st1.name = "Alex"
 
 
     # init(st1, "Alex", 20, 10)
